@@ -14,7 +14,7 @@ This directory contains all puzzles of the benchmark in the uniform natural lang
 
 ## Corpus
 
-This directory contains the Mystery Zebra Corpus in .csv format and split into Part 1 and Part 2.
+This directory contains the Mystery Zebra Corpus in .csv format and split into Part 1 and Part 2. This data is also available as a dataset on huggingface: https://huggingface.co/datasets/arg-tech/MysteryZebra
 
 ## Code
 
